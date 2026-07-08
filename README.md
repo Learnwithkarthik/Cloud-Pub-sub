@@ -25,3 +25,13 @@ message sample:
   "item": "Laptop",
   "amount": "55000"
 }
+
+
+
+
+
+OUTPUT_BUCKET	PROJECT_ID-pubsub-demo-output
+
+SERVICE_NAME	notification
+
+OUTPUT_FOLDER	notifications
